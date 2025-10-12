@@ -1,0 +1,36 @@
+services:
+  db:
+    image: mariadb:10.11.2
+    working_dir: /application
+    ports:
+      - "33406:3306"
+    environment:
+      - MYSQL_ROOT_PASSWORD=admin
+      - MYSQL_DATABASE=my_shop
+      - MYSQL_USER=root
+      - MYSQL_PASSWORD=admin
+    networks:
+      - myShop
+
+  php:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - ./:/var/www/html
+    networks:
+      - myShop
+    depends_on:
+      - db
+
+  nginx:
+    image: nginx:stable-alpine
+    ports:
+      - "8060:80"
+    volumes:
+      - ./my-shop:/var/www/html/my-shop:rw
+      - .docker/nginx.conf:/etc/nginx/conf.d/default.conf:ro
+    networks:
+      - myShop
+networks:
+  myShop:
