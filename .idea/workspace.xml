@@ -5,70 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1c2d5b2-6f2f-49fe-96be-4f3e9d6439b0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/my_shop_web_php.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/my_shop_web_php.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-shop/.env" beforeDir="false" afterPath="$PROJECT_DIR$/my-shop/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-shop/.env.dev" beforeDir="false" afterPath="$PROJECT_DIR$/my-shop/.env.dev" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-shop/.env.test" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-shop/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/my-shop/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-shop/assets/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-shop/assets/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-shop/assets/controllers.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-shop/assets/controllers/csrf_protection_controller.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-shop/assets/controllers/hello_controller.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-shop/assets/custom.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-shop/assets/styles/app.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-shop/bin/phpunit" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-shop/assets/styles/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/my-shop/assets/styles/app.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-shop/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-shop/composer.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-shop/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/my-shop/composer.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-shop/config/bundles.php" beforeDir="false" afterPath="$PROJECT_DIR$/my-shop/config/bundles.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-shop/config/packages/asset_mapper.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-shop/config/packages/csrf.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-shop/config/packages/debug.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-shop/config/packages/doctrine.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-shop/config/packages/doctrine_migrations.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-shop/config/packages/mailer.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-shop/config/packages/messenger.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-shop/config/packages/monolog.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-shop/config/packages/notifier.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-shop/config/packages/property_info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-shop/config/packages/security.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-shop/config/packages/symfonycasts_tailwind.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-shop/config/packages/translation.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-shop/config/packages/twig.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-shop/config/packages/ux_turbo.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-shop/config/packages/validator.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-shop/config/packages/web_profiler.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-shop/config/routes/security.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-shop/config/routes/web_profiler.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-shop/importmap.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-shop/migrations/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-shop/phpunit.dist.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-shop/public/build/app.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-shop/public/build/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-shop/public/build/entrypoints.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-shop/public/build/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-shop/public/build/runtime.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-shop/public/build/vendors-node_modules_flowbite_lib_esm_index_js-node_modules_flowbite_src_themes_default_css-n-62f4f4.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-shop/public/build/vendors-node_modules_flowbite_lib_esm_index_js-node_modules_flowbite_src_themes_default_css-n-62f4f4.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-shop/public/images/apple-watch.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-shop/public/images/carousel/image-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-shop/public/images/carousel/image-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-shop/public/images/carousel/image-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-shop/public/images/carousel/image-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-shop/public/images/carousel/image-5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-shop/public/images/carousel/image.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-shop/public/images/logo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-shop/src/Controller/AppController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-shop/src/Entity/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-shop/src/Repository/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/my-shop/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/my-shop/symfony.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-shop/templates/app/index.html.twig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-shop/templates/base.html.twig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-shop/tests/bootstrap.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-shop/translations/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-shop/yarn.lock" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,12 +32,12 @@
     &quot;assignee&quot;: &quot;YohanDacosta&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/YohanDacosta/my_shop_web_php.git",
-    "accountId": "fbdd6a1b-40a1-4ec3-863c-e05254f3ae08"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/YohanDacosta/my_shop_web_php.git&quot;,
+    &quot;accountId&quot;: &quot;fbdd6a1b-40a1-4ec3-863c-e05254f3ae08&quot;
   }
-}]]></component>
+}</component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="php-8.5">
     <include_path>
       <path value="$PROJECT_DIR$/my-shop/vendor/phpunit/php-code-coverage" />
@@ -242,26 +183,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
-    "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "/Users/ydacosta/Documents/Projects/php/my_shop_web_php",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ydacosta/Documents/Projects/php/my_shop_web_php&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/my_shop_web_php" />
