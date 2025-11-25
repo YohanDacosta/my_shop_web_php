@@ -4,7 +4,72 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1c2d5b2-6f2f-49fe-96be-4f3e9d6439b0" name="Changes" comment="" />
+    <list default="true" id="f1c2d5b2-6f2f-49fe-96be-4f3e9d6439b0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/my_shop_web_php.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/my_shop_web_php.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-shop/.env" beforeDir="false" afterPath="$PROJECT_DIR$/my-shop/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-shop/.env.dev" beforeDir="false" afterPath="$PROJECT_DIR$/my-shop/.env.dev" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-shop/.env.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-shop/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/my-shop/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-shop/assets/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-shop/assets/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-shop/assets/controllers.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-shop/assets/controllers/csrf_protection_controller.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-shop/assets/controllers/hello_controller.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-shop/assets/custom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-shop/assets/styles/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-shop/bin/phpunit" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-shop/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-shop/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-shop/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/my-shop/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-shop/config/bundles.php" beforeDir="false" afterPath="$PROJECT_DIR$/my-shop/config/bundles.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-shop/config/packages/asset_mapper.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-shop/config/packages/csrf.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-shop/config/packages/debug.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-shop/config/packages/doctrine.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-shop/config/packages/doctrine_migrations.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-shop/config/packages/mailer.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-shop/config/packages/messenger.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-shop/config/packages/monolog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-shop/config/packages/notifier.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-shop/config/packages/property_info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-shop/config/packages/security.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-shop/config/packages/symfonycasts_tailwind.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-shop/config/packages/translation.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-shop/config/packages/twig.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-shop/config/packages/ux_turbo.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-shop/config/packages/validator.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-shop/config/packages/web_profiler.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-shop/config/routes/security.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-shop/config/routes/web_profiler.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-shop/importmap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-shop/migrations/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-shop/phpunit.dist.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-shop/public/build/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-shop/public/build/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-shop/public/build/entrypoints.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-shop/public/build/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-shop/public/build/runtime.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-shop/public/build/vendors-node_modules_flowbite_lib_esm_index_js-node_modules_flowbite_src_themes_default_css-n-62f4f4.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-shop/public/build/vendors-node_modules_flowbite_lib_esm_index_js-node_modules_flowbite_src_themes_default_css-n-62f4f4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-shop/public/images/apple-watch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-shop/public/images/carousel/image-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-shop/public/images/carousel/image-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-shop/public/images/carousel/image-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-shop/public/images/carousel/image-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-shop/public/images/carousel/image-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-shop/public/images/carousel/image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-shop/public/images/logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-shop/src/Controller/AppController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-shop/src/Entity/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-shop/src/Repository/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-shop/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/my-shop/symfony.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-shop/templates/app/index.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-shop/templates/base.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-shop/tests/bootstrap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-shop/translations/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-shop/yarn.lock" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,13 +91,146 @@
     &quot;assignee&quot;: &quot;YohanDacosta&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/YohanDacosta/my_shop_web_php.git&quot;,
-    &quot;accountId&quot;: &quot;afea16c8-c2e1-482b-ad7f-675937c693ad&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/YohanDacosta/my_shop_web_php.git",
+    "accountId": "fbdd6a1b-40a1-4ec3-863c-e05254f3ae08"
   }
-}</component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="php-8.5" />
+}]]></component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="php-8.5">
+    <include_path>
+      <path value="$PROJECT_DIR$/my-shop/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/framework-bundle" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/monolog-bundle" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/polyfill-intl-icu" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/form" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/ux-turbo" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/serializer" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/dotenv" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/validator" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/monolog-bridge" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/asset" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/browser-kit" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/security-bundle" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/intl" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/notifier" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/security-http" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/expression-language" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/asset-mapper" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/runtime" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/debug-bundle" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/mailer" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/options-resolver" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/security-csrf" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/maker-bundle" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/twig-bridge" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/web-profiler-bundle" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/web-link" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/messenger" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/property-access" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/twig-bundle" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/polyfill-php83" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/polyfill-php84" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/http-client" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/doctrine-messenger" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/security-core" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/property-info" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/type-info" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/doctrine-bridge" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/flex" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/cache-contracts" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/stimulus-bundle" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/clock" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/password-hasher" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/doctrine/doctrine-migrations-bundle" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/doctrine/migrations" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/doctrine/persistence" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/doctrine/sql-formatter" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/doctrine/deprecations" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/doctrine/doctrine-bundle" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/masterminds/html5" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/symfonycasts/tailwind-bundle" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/composer" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/psr/link" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/psr/clock" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/twig/extra-bundle" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/staabm/side-effects-detector" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/phpstan/phpdoc-parser" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/my-shop/vendor/phpunit/php-text-template" />
+    </include_path>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -78,6 +276,9 @@
       </set>
     </attachedChunks>
   </component>
+  <component name="StructureViewState">
+    <option name="selectedTab" value="Twig" />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="f1c2d5b2-6f2f-49fe-96be-4f3e9d6439b0" name="Changes" comment="" />
@@ -87,7 +288,7 @@
       <updated>1760306072671</updated>
       <workItem from="1760306073915" duration="68000" />
       <workItem from="1760306157014" duration="4121000" />
-      <workItem from="1764109107862" duration="37000" />
+      <workItem from="1764109107862" duration="2164000" />
     </task>
     <servers />
   </component>
@@ -105,7 +306,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="main" />
+                        <option value="HEAD" />
                       </list>
                     </value>
                   </entry>
